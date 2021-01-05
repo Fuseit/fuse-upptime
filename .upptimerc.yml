@@ -8,6 +8,19 @@ sites:
     url: https://prodtest.fuseuniversal.com
   - name: sydney
     url: https://prodtestau.fuseuniversal.com
+  - name: avon
+    url: https://prodtest-avon.fuseuniversal.com
+  - name: nova
+    url: https://fuse-nova-test.fuseuniversal.com
+  - name: oregon
+    url: https://prodtest-oregon.fuseuniversal.com
+  - name: pinkfuse
+    url: https://fuse.fuseuniversal.com
+  - name: pa consulting
+    url: https://paacademy.fuseuniversal.com
+  - name: fuseschool
+    url: https://fuseschool.fuseuniversal.com
+
   
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -16,8 +29,8 @@ status-website:
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: "[beta] fuse uptime page"
+  introTitle: "FUSE Platform uptime __BETA__"
+  introMessage: "some intro msg here?"
   navbar:
     - title: Status
       href: /
