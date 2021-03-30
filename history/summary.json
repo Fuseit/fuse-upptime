@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 831,
-    "timeDay": 555,
-    "timeWeek": 679,
-    "timeMonth": 1385,
-    "timeYear": 831,
+    "time": 828,
+    "timeDay": 583,
+    "timeWeek": 689,
+    "timeMonth": 1359,
+    "timeYear": 828,
     "dailyMinutesDown": {}
   },
   {
@@ -23,17 +23,19 @@
     "icon": "https://favicons.githubusercontent.com/prodtestau.fuseuniversal.com",
     "slug": "sydney",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1203,
-    "timeDay": 1310,
-    "timeWeek": 1166,
-    "timeMonth": 1190,
-    "timeYear": 1203,
-    "dailyMinutesDown": {}
+    "uptimeYear": "99.98%",
+    "time": 1204,
+    "timeDay": 1351,
+    "timeWeek": 1192,
+    "timeMonth": 1196,
+    "timeYear": 1204,
+    "dailyMinutesDown": {
+      "2021-01-06": 24
+    }
   },
   {
     "name": "avon",
@@ -41,17 +43,19 @@
     "icon": "https://favicons.githubusercontent.com/prodtest-avon.fuseuniversal.com",
     "slug": "avon",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 638,
-    "timeDay": 654,
-    "timeWeek": 701,
+    "uptimeYear": "99.98%",
+    "time": 639,
+    "timeDay": 715,
+    "timeWeek": 709,
     "timeMonth": 711,
-    "timeYear": 638,
-    "dailyMinutesDown": {}
+    "timeYear": 639,
+    "dailyMinutesDown": {
+      "2021-01-06": 24
+    }
   },
   {
     "name": "nova",
@@ -59,17 +63,19 @@
     "icon": "https://favicons.githubusercontent.com/fuse-nova-test.fuseuniversal.com",
     "slug": "nova",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeYear": "99.98%",
     "time": 636,
-    "timeDay": 789,
-    "timeWeek": 726,
+    "timeDay": 666,
+    "timeWeek": 735,
     "timeMonth": 675,
     "timeYear": 636,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-06": 24
+    }
   },
   {
     "name": "oregon",
@@ -77,17 +83,19 @@
     "icon": "https://favicons.githubusercontent.com/prodtest-oregon.fuseuniversal.com",
     "slug": "oregon",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 671,
-    "timeDay": 913,
-    "timeWeek": 714,
-    "timeMonth": 705,
-    "timeYear": 671,
-    "dailyMinutesDown": {}
+    "uptimeYear": "99.98%",
+    "time": 672,
+    "timeDay": 774,
+    "timeWeek": 718,
+    "timeMonth": 707,
+    "timeYear": 672,
+    "dailyMinutesDown": {
+      "2021-01-06": 24
+    }
   },
   {
     "name": "pinkfuse",
@@ -101,9 +109,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 757,
-    "timeDay": 673,
-    "timeWeek": 780,
-    "timeMonth": 766,
+    "timeDay": 738,
+    "timeWeek": 791,
+    "timeMonth": 765,
     "timeYear": 757,
     "dailyMinutesDown": {
       "2021-01-06": 24
@@ -121,9 +129,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1026,
-    "timeDay": 903,
-    "timeWeek": 1095,
-    "timeMonth": 1062,
+    "timeDay": 964,
+    "timeWeek": 1105,
+    "timeMonth": 1058,
     "timeYear": 1026,
     "dailyMinutesDown": {}
   },
@@ -133,16 +141,18 @@
     "icon": "https://favicons.githubusercontent.com/fuseschool.fuseuniversal.com",
     "slug": "fuseschool",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 734,
-    "timeDay": 713,
-    "timeWeek": 771,
-    "timeMonth": 793,
-    "timeYear": 734,
-    "dailyMinutesDown": {}
+    "uptimeYear": "99.98%",
+    "time": 733,
+    "timeDay": 625,
+    "timeWeek": 767,
+    "timeMonth": 788,
+    "timeYear": 733,
+    "dailyMinutesDown": {
+      "2021-01-06": 24
+    }
   }
 ]
