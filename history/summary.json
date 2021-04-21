@@ -114,19 +114,19 @@
     "url": "https://paacademy.fuseuniversal.com",
     "icon": "https://favicons.githubusercontent.com/paacademy.fuseuniversal.com",
     "slug": "pa-consulting",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1043,
-    "timeDay": 1031,
-    "timeWeek": 1098,
-    "timeMonth": 1092,
-    "timeYear": 1043,
+    "time": 1038,
+    "timeDay": 919,
+    "timeWeek": 1047,
+    "timeMonth": 1077,
+    "timeYear": 1038,
     "dailyMinutesDown": {
-      "2021-04-21": 0
+      "2021-04-21": 6
     }
   },
   {
