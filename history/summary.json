@@ -40,18 +40,20 @@
     "url": "https://prodtest-avon.fuseuniversal.com",
     "icon": "https://favicons.githubusercontent.com/prodtest-avon.fuseuniversal.com",
     "slug": "avon",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 699,
-    "timeDay": 752,
-    "timeWeek": 776,
-    "timeMonth": 758,
-    "timeYear": 699,
-    "dailyMinutesDown": {}
+    "time": 750,
+    "timeDay": 5661,
+    "timeWeek": 2000,
+    "timeMonth": 1074,
+    "timeYear": 750,
+    "dailyMinutesDown": {
+      "2021-07-16": 0
+    }
   },
   {
     "name": "nova",
