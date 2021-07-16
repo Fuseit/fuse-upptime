@@ -1,7 +1,7 @@
 url: https://prodtest-avon.fuseuniversal.com
-status: down
-code: 500
-responseTime: 10569
-lastUpdated: 2021-07-16T22:51:50.594Z
+status: up
+code: 200
+responseTime: 696
+lastUpdated: 2021-07-16T22:56:36.785Z
 startTime: Tue Jan 05 2021 10:13:52 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
