@@ -4,19 +4,19 @@
     "url": "https://prodtest.fuseuniversal.com",
     "icon": "https://favicons.githubusercontent.com/prodtest.fuseuniversal.com",
     "slug": "dublin",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.47%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 890,
-    "timeDay": 9384,
-    "timeWeek": 2730,
-    "timeMonth": 1206,
-    "timeYear": 890,
+    "time": 898,
+    "timeDay": 7451,
+    "timeWeek": 2825,
+    "timeMonth": 1278,
+    "timeYear": 898,
     "dailyMinutesDown": {
-      "2021-11-25": 0
+      "2021-11-25": 22
     }
   },
   {
