@@ -78,19 +78,19 @@
     "url": "https://prodtest-oregon.fuseuniversal.com",
     "icon": "https://favicons.githubusercontent.com/prodtest-oregon.fuseuniversal.com",
     "slug": "oregon",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 801,
-    "timeDay": 529,
-    "timeWeek": 1456,
-    "timeMonth": 978,
-    "timeYear": 801,
+    "time": 856,
+    "timeDay": 10331,
+    "timeWeek": 3324,
+    "timeMonth": 1558,
+    "timeYear": 856,
     "dailyMinutesDown": {
-      "2021-12-15": 0
+      "2021-12-15": 7
     }
   },
   {
