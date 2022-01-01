@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 866,
-    "timeDay": 1055,
-    "timeWeek": 675,
-    "timeMonth": 593,
-    "timeYear": 866,
+    "time": 865,
+    "timeDay": 587,
+    "timeWeek": 650,
+    "timeMonth": 594,
+    "timeYear": 865,
     "dailyMinutesDown": {
       "2021-11-25": 22
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1127,
-    "timeDay": 767,
-    "timeWeek": 690,
-    "timeMonth": 768,
-    "timeYear": 1127,
+    "time": 1125,
+    "timeDay": 560,
+    "timeWeek": 616,
+    "timeMonth": 747,
+    "timeYear": 1125,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 762,
-    "timeDay": 993,
-    "timeWeek": 813,
-    "timeMonth": 717,
+    "timeDay": 983,
+    "timeWeek": 852,
+    "timeMonth": 727,
     "timeYear": 762,
     "dailyMinutesDown": {}
   },
@@ -62,18 +62,16 @@
     "slug": "nova",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 746,
-    "timeDay": 732,
-    "timeWeek": 707,
-    "timeMonth": 574,
-    "timeYear": 746,
-    "dailyMinutesDown": {
-      "2021-12-31": 7
-    }
+    "time": 747,
+    "timeDay": 771,
+    "timeWeek": 730,
+    "timeMonth": 591,
+    "timeYear": 747,
+    "dailyMinutesDown": {}
   },
   {
     "name": "oregon",
@@ -86,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 845,
-    "timeDay": 286,
-    "timeWeek": 547,
-    "timeMonth": 1435,
-    "timeYear": 845,
+    "time": 844,
+    "timeDay": 633,
+    "timeWeek": 518,
+    "timeMonth": 1422,
+    "timeYear": 844,
     "dailyMinutesDown": {}
   },
   {
@@ -105,9 +103,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 749,
-    "timeDay": 585,
-    "timeWeek": 715,
-    "timeMonth": 623,
+    "timeDay": 589,
+    "timeWeek": 733,
+    "timeMonth": 612,
     "timeYear": 749,
     "dailyMinutesDown": {
       "2021-01-06": 24
@@ -124,11 +122,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1083,
-    "timeDay": 1294,
-    "timeWeek": 1006,
-    "timeMonth": 964,
-    "timeYear": 1083,
+    "time": 1084,
+    "timeDay": 1223,
+    "timeWeek": 1061,
+    "timeMonth": 975,
+    "timeYear": 1084,
     "dailyMinutesDown": {}
   },
   {
@@ -143,9 +141,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 772,
-    "timeDay": 1052,
-    "timeWeek": 818,
-    "timeMonth": 761,
+    "timeDay": 1050,
+    "timeWeek": 875,
+    "timeMonth": 773,
     "timeYear": 772,
     "dailyMinutesDown": {}
   }
