@@ -4,19 +4,19 @@
     "url": "https://prodtest.fuseuniversal.com",
     "icon": "https://favicons.githubusercontent.com/prodtest.fuseuniversal.com",
     "slug": "dublin",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 846,
-    "timeDay": 449,
-    "timeWeek": 489,
-    "timeMonth": 547,
-    "timeYear": 861,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.92%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
+    "time": 845,
+    "timeDay": 474,
+    "timeWeek": 490,
+    "timeMonth": 545,
+    "timeYear": 860,
     "dailyMinutesDown": {
-      "2022-01-18": 0,
+      "2022-01-18": 30,
       "2021-11-25": 22
     }
   },
@@ -97,9 +97,9 @@
     "url": "https://fuse.fuseuniversal.com",
     "icon": "https://favicons.githubusercontent.com/fuse.fuseuniversal.com",
     "slug": "pinkfuse",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -108,7 +108,9 @@
     "timeWeek": 521,
     "timeMonth": 603,
     "timeYear": 739,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-18": 0
+    }
   },
   {
     "name": "pa consulting",
