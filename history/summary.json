@@ -97,19 +97,19 @@
     "url": "https://fuse.fuseuniversal.com",
     "icon": "https://favicons.githubusercontent.com/fuse.fuseuniversal.com",
     "slug": "pinkfuse",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 732,
-    "timeDay": 511,
-    "timeWeek": 532,
-    "timeMonth": 528,
+    "time": 733,
+    "timeDay": 656,
+    "timeWeek": 578,
+    "timeMonth": 540,
     "timeYear": 732,
     "dailyMinutesDown": {
-      "2022-01-27": 0
+      "2022-01-27": 4
     }
   },
   {
@@ -135,19 +135,19 @@
     "url": "https://fuseschool.fuseuniversal.com",
     "icon": "https://favicons.githubusercontent.com/fuseschool.fuseuniversal.com",
     "slug": "fuseschool",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 766,
-    "timeDay": 632,
-    "timeWeek": 688,
-    "timeMonth": 723,
-    "timeYear": 770,
+    "time": 769,
+    "timeDay": 1055,
+    "timeWeek": 798,
+    "timeMonth": 756,
+    "timeYear": 773,
     "dailyMinutesDown": {
-      "2022-01-27": 0
+      "2022-01-27": 4
     }
   }
 ]
