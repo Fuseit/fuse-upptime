@@ -68,7 +68,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 753,
-    "timeDay": 2646,
+    "timeDay": 643,
     "timeWeek": 1326,
     "timeMonth": 820,
     "timeYear": 758,
@@ -86,7 +86,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 819,
-    "timeDay": 357,
+    "timeDay": 375,
     "timeWeek": 500,
     "timeMonth": 499,
     "timeYear": 832,
@@ -97,18 +97,20 @@
     "url": "https://fuse.fuseuniversal.com",
     "icon": "https://favicons.githubusercontent.com/fuse.fuseuniversal.com",
     "slug": "pinkfuse",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 733,
-    "timeDay": 593,
-    "timeWeek": 547,
-    "timeMonth": 531,
-    "timeYear": 733,
-    "dailyMinutesDown": {}
+    "time": 732,
+    "timeDay": 511,
+    "timeWeek": 532,
+    "timeMonth": 528,
+    "timeYear": 732,
+    "dailyMinutesDown": {
+      "2022-01-27": 0
+    }
   },
   {
     "name": "pa consulting",
@@ -133,17 +135,19 @@
     "url": "https://fuseschool.fuseuniversal.com",
     "icon": "https://favicons.githubusercontent.com/fuseschool.fuseuniversal.com",
     "slug": "fuseschool",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 767,
-    "timeDay": 926,
-    "timeWeek": 727,
-    "timeMonth": 735,
-    "timeYear": 771,
-    "dailyMinutesDown": {}
+    "time": 766,
+    "timeDay": 632,
+    "timeWeek": 688,
+    "timeMonth": 723,
+    "timeYear": 770,
+    "dailyMinutesDown": {
+      "2022-01-27": 0
+    }
   }
 ]
