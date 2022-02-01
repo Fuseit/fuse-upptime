@@ -61,19 +61,19 @@
     "url": "https://fuse-nova-test.fuseuniversal.com",
     "icon": "https://favicons.githubusercontent.com/fuse-nova-test.fuseuniversal.com",
     "slug": "nova",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 747,
-    "timeDay": 404,
-    "timeWeek": 1031,
-    "timeMonth": 752,
-    "timeYear": 755,
+    "time": 746,
+    "timeDay": 401,
+    "timeWeek": 982,
+    "timeMonth": 742,
+    "timeYear": 754,
     "dailyMinutesDown": {
-      "2022-02-01": 0
+      "2022-02-01": 6
     }
   },
   {
