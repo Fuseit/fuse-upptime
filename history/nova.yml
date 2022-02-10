@@ -1,7 +1,7 @@
 url: https://fuse-nova-test.fuseuniversal.com
-status: down
-code: 502
-responseTime: 127
-lastUpdated: 2022-02-10T19:14:45.164Z
+status: up
+code: 200
+responseTime: 464
+lastUpdated: 2022-02-10T19:20:18.520Z
 startTime: Tue Jan 05 2021 10:13:53 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
