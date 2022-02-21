@@ -99,19 +99,19 @@
     "url": "https://fuse.fuseuniversal.com",
     "icon": "https://favicons.githubusercontent.com/fuse.fuseuniversal.com",
     "slug": "pinkfuse",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.99%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 743,
-    "timeDay": 4554,
-    "timeWeek": 1414,
+    "timeDay": 3301,
+    "timeWeek": 1357,
     "timeMonth": 822,
     "timeYear": 741,
     "dailyMinutesDown": {
-      "2022-02-21": 0
+      "2022-02-21": 15
     }
   },
   {
