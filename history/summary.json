@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 817,
-    "timeDay": 395,
-    "timeWeek": 588,
-    "timeMonth": 516,
+    "time": 816,
+    "timeDay": 541,
+    "timeWeek": 550,
+    "timeMonth": 512,
     "timeYear": 854,
     "dailyMinutesDown": {
       "2022-01-18": 30,
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1078,
-    "timeDay": 1039,
-    "timeWeek": 700,
-    "timeMonth": 720,
+    "timeDay": 1175,
+    "timeWeek": 782,
+    "timeMonth": 733,
     "timeYear": 1059,
     "dailyMinutesDown": {}
   },
@@ -49,11 +49,11 @@
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 760,
-    "timeDay": 687,
-    "timeWeek": 741,
-    "timeMonth": 767,
-    "timeYear": 781,
+    "time": 761,
+    "timeDay": 1029,
+    "timeWeek": 750,
+    "timeMonth": 780,
+    "timeYear": 782,
     "dailyMinutesDown": {
       "2022-02-18": 18
     }
@@ -70,10 +70,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 791,
-    "timeDay": 621,
-    "timeWeek": 568,
-    "timeMonth": 1263,
-    "timeYear": 813,
+    "timeDay": 682,
+    "timeWeek": 588,
+    "timeMonth": 1261,
+    "timeYear": 814,
     "dailyMinutesDown": {}
   },
   {
@@ -87,11 +87,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 796,
-    "timeDay": 370,
-    "timeWeek": 415,
-    "timeMonth": 479,
-    "timeYear": 816,
+    "time": 795,
+    "timeDay": 271,
+    "timeWeek": 387,
+    "timeMonth": 467,
+    "timeYear": 814,
     "dailyMinutesDown": {}
   },
   {
@@ -100,19 +100,17 @@
     "icon": "https://favicons.githubusercontent.com/fuse.fuseuniversal.com",
     "slug": "pinkfuse",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "98.99%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 743,
-    "timeDay": 3301,
-    "timeWeek": 1357,
-    "timeMonth": 822,
+    "timeDay": 3298,
+    "timeWeek": 1453,
+    "timeMonth": 821,
     "timeYear": 741,
-    "dailyMinutesDown": {
-      "2022-02-21": 15
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "pa consulting",
@@ -125,11 +123,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1069,
-    "timeDay": 787,
-    "timeWeek": 1005,
-    "timeMonth": 1001,
-    "timeYear": 1077,
+    "time": 1070,
+    "timeDay": 1243,
+    "timeWeek": 1057,
+    "timeMonth": 1015,
+    "timeYear": 1078,
     "dailyMinutesDown": {}
   },
   {
@@ -143,11 +141,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 824,
-    "timeDay": 4545,
-    "timeWeek": 3695,
-    "timeMonth": 1384,
-    "timeYear": 840,
+    "time": 825,
+    "timeDay": 1050,
+    "timeWeek": 3733,
+    "timeMonth": 1394,
+    "timeYear": 841,
     "dailyMinutesDown": {
       "2022-02-10": 20
     }
