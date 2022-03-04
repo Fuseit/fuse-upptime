@@ -135,19 +135,19 @@
     "url": "https://fuseschool.fuseuniversal.com",
     "icon": "https://favicons.githubusercontent.com/fuseschool.fuseuniversal.com",
     "slug": "fuseschool",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.96%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 823,
-    "timeDay": 833,
-    "timeWeek": 752,
-    "timeMonth": 1486,
-    "timeYear": 842,
+    "timeDay": 756,
+    "timeWeek": 743,
+    "timeMonth": 1461,
+    "timeYear": 841,
     "dailyMinutesDown": {
-      "2022-03-04": 0,
+      "2022-03-04": 4,
       "2022-02-10": 20
     }
   }
