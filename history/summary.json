@@ -99,18 +99,20 @@
     "url": "https://fuse.fuseuniversal.com",
     "icon": "https://favicons.githubusercontent.com/fuse.fuseuniversal.com",
     "slug": "pinkfuse",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 746,
-    "timeDay": 566,
-    "timeWeek": 1534,
-    "timeMonth": 889,
-    "timeYear": 741,
-    "dailyMinutesDown": {}
+    "time": 758,
+    "timeDay": 3377,
+    "timeWeek": 1867,
+    "timeMonth": 1029,
+    "timeYear": 756,
+    "dailyMinutesDown": {
+      "2022-04-13": 0
+    }
   },
   {
     "name": "pa consulting",
