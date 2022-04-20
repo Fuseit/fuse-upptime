@@ -81,9 +81,9 @@
     "url": "https://prodtest-oregon.fuseuniversal.com",
     "icon": "https://favicons.githubusercontent.com/prodtest-oregon.fuseuniversal.com",
     "slug": "oregon",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -92,7 +92,9 @@
     "timeWeek": 501,
     "timeMonth": 551,
     "timeYear": 791,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-20": 0
+    }
   },
   {
     "name": "pinkfuse",
@@ -102,12 +104,12 @@
     "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.85%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 753,
     "timeDay": 481,
-    "timeWeek": 1138,
+    "timeWeek": 510,
     "timeMonth": 997,
     "timeYear": 750,
     "dailyMinutesDown": {
