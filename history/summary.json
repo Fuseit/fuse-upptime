@@ -121,9 +121,9 @@
     "url": "https://paacademy.fuseuniversal.com",
     "icon": "https://favicons.githubusercontent.com/paacademy.fuseuniversal.com",
     "slug": "pa-consulting",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -132,7 +132,9 @@
     "timeWeek": 888,
     "timeMonth": 1058,
     "timeYear": 1067,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-13": 0
+    }
   },
   {
     "name": "fuseschool",
