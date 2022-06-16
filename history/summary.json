@@ -65,18 +65,20 @@
     "url": "https://fuse-nova-test.fuseuniversal.com",
     "icon": "https://favicons.githubusercontent.com/fuse-nova-test.fuseuniversal.com",
     "slug": "nova",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 877,
-    "timeDay": 1227,
-    "timeWeek": 972,
-    "timeMonth": 863,
-    "timeYear": 917,
-    "dailyMinutesDown": {}
+    "time": 876,
+    "timeDay": 698,
+    "timeWeek": 872,
+    "timeMonth": 841,
+    "timeYear": 915,
+    "dailyMinutesDown": {
+      "2022-06-16": 0
+    }
   },
   {
     "name": "oregon",
